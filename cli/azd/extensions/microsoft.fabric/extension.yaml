@@ -1,0 +1,10 @@
+---
+capabilities:
+  - custom-commands
+description: AZD Extension for Microsoft Fabric
+displayName: Microsoft Fabric
+id: microsoft.fabric
+language: go
+namespace: fabric
+usage: azd fabric <command> [options]
+version: 0.0.1

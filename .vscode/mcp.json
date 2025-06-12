@@ -1,0 +1,13 @@
+{
+    "servers": {
+        "Fabric MCP Server": {
+            "type": "stdio",
+            "command": "azd",
+            "args": [
+                "fabric",
+                "mcp",
+                "stdio"
+            ]
+        }
+    }
+}
